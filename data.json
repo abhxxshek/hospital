@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "hospital-name": "KIMS",
+    "patient-count": 440,
+    "loaction": "TVM"
+  },
+  {
+    "id": 2,
+    "hospital-name": "Cosmopolitan",
+    "patient-count": 525,
+    "loaction": "kollam"
+  },
+  {
+    "id": 3,
+    "hospital-name": "Sk",
+    "patient-count": 350,
+    "loaction": "kochi"
+  },
+  {
+    "id": 4,
+    "hospital-name": "Ananthapuri",
+    "patient-count": 630,
+    "loaction": "TVM"
+  },
+  {
+    "id": 5,
+    "hospital-name": "SUT",
+    "patient-count": 1900,
+    "loaction": "TVM"
+  }
+]
